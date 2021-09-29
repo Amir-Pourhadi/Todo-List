@@ -52,7 +52,7 @@ Add a button that users can click that will iterate through the list of ToDos an
 
 We want users to be able to set, and see, deadlines for their ToDos.
 
-When creating ToDos we want the user to be able to use a datepicker input so they can see when they need to complete the ToDo. The date be added to the ToDo in the list. If there is no date set when the ToDo is created then this can be skipped.
+When creating ToDos we want the user to be able to use a date picker input so they can see when they need to complete the ToDo. The date be added to the ToDo in the list. If there is no date set when the ToDo is created then this can be skipped.
 
 EXTRA CHALLENGE: instead of displaying the date on the ToDo, implement a countdown of days left until the deadline. You can use the Javascript Date reference to accomplish this:
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
+<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date>
