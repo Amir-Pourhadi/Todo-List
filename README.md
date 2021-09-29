@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/088d172d-8cde-4b41-9d0a-663d4b88eeca/deploy-status)](https://app.netlify.com/sites/amir-todolist/deploys)
+
 # ToDo-list
 
 ## Explanation
