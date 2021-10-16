@@ -61,7 +61,9 @@ function populateTodoList(todo) {
   });
 }
 
+const addBtn = document.querySelector("#add-todo-btn");
 function addNewTodo(event) {
+  console.log("hi");
   event.preventDefault();
   const todoInput = document.querySelector("#todoInput");
   if (todoInput.value) {
@@ -75,6 +77,7 @@ function addNewTodo(event) {
   dateInput.classList.add("d-none");
   dateInput.value = "";
 }
+addBtn.addEventListener("click", addNewTodo);
 
 const deleteAllBtn = document.createElement("button");
 deleteAllBtn.append("Delete All Completed");
