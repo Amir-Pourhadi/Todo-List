@@ -22,7 +22,7 @@ function populateTodoList(todo) {
 
     todoEl.appendChild(deadline);
   } else if (dateInput.value === today && dateInput.value)
-    alert("OMG! Today is deadline for this task! Do it ASAP!");
+      alert("OMG! Today is deadline for this task! Do it ASAP!");
 
   const buttons = document.createElement("span");
   buttons.className = "badge bg-primary rounded-pill";
