@@ -1,4 +1,14 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/088d172d-8cde-4b41-9d0a-663d4b88eeca/deploy-status)](https://app.netlify.com/sites/amir-todolist/deploys)
+<div align="center">
+
+  [![wakatime](https://wakatime.com/badge/github/Amir-Pourhadi/Todo-List.svg)](https://wakatime.com/badge/github/Amir-Pourhadi/Todo-List)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/088d172d-8cde-4b41-9d0a-663d4b88eeca/deploy-status)](https://app.netlify.com/sites/amir-todolist/deploys)
+  [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Amir-Pourhadi_Todo-List&metric=ncloc)](https://sonarcloud.io/dashboard?id=Amir-Pourhadi_Todo-List)
+  [![CodeFactor](https://www.codefactor.io/repository/github/amir-pourhadi/todo-list/badge)](https://www.codefactor.io/repository/github/amir-pourhadi/todo-list)  
+  [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Amir-Pourhadi_Todo-List&metric=alert_status)](https://sonarcloud.io/dashboard?id=Amir-Pourhadi_Todo-List)
+  [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Amir-Pourhadi_Todo-List&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=Amir-Pourhadi_Todo-List)
+  [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Amir-Pourhadi_Todo-List&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=Amir-Pourhadi_Todo-List)
+  [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Amir-Pourhadi_Todo-List&metric=security_rating)](https://sonarcloud.io/dashboard?id=Amir-Pourhadi_Todo-List)
+</div>
 
 # ToDo-list
 
